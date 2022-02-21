@@ -3,6 +3,23 @@
     "displayName": "VikashPR Theme Dark",
     "description": "VikashPR dark is a custom dark theme for Vscode ",
     "version": "0.0.2",
+    "publisher": "VikashPR",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/VikashPR/VikashPR-Theme-Dark" 
+    },
+    "keywords": [
+        "theme",
+        "dark",
+        "vscode",
+        "vikashpr",
+        "vikashpr-theme-dark",
+        "vikashpr-theme-dark-vscode",
+        "dark-theme",
+        "dark-theme-vscode",
+        "dark-theme-vscode-vikashpr",
+        "dark-theme-vscode-vikashpr-theme-dark"
+    ],
     "engines": {
         "vscode": "^1.64.0"
     },
