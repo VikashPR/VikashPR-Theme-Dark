@@ -6,6 +6,9 @@
     "engines": {
         "vscode": "^1.64.0"
     },
+    "scripts": {
+        "release": "standard-version"
+    },
     "categories": [
         "Themes"
     ],
@@ -17,5 +20,8 @@
                 "path": "./themes/VikashPR Theme Dark-color-theme.json"
             }
         ]
+    },
+    "devDependencies": {
+        "standard-version": "^9.3.2"
     }
 }
