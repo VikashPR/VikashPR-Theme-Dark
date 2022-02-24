@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.4](https://github.com/VikashPR/VikashPR-Theme-Dark/compare/v0.0.3...v0.0.4) (2022-02-24)
+
+
+### Features
+
+* extension logo update ([0ec6408](https://github.com/VikashPR/VikashPR-Theme-Dark/commit/0ec640851524bb636a4c2d2faf64921e30e3b64f))
+
 ### [0.0.3](https://github.com/VikashPR/VikashPR-Theme-Dark/compare/v0.0.2...v0.0.3) (2022-02-21)
 
 
