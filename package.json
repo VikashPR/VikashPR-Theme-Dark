@@ -4,6 +4,7 @@
     "description": "VikashPR dark is a custom dark theme for Vscode ",
     "version": "0.0.3",
     "publisher": "VikashPR",
+    "icon": "./assets/image/logo.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/VikashPR/VikashPR-Theme-Dark"
