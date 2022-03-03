@@ -1,4 +1,5 @@
 node_modules
 *.vsix
+.token
 token.txt
-.tokens
+
