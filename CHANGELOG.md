@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.5](https://github.com/VikashPR/VikashPR-Theme-Dark/compare/v0.0.4...v1.0.5) (2022-03-03)
+
+
+### Features
+
+* new color scheme add ([032026f](https://github.com/VikashPR/VikashPR-Theme-Dark/commit/032026f46682c00cea4a7f262000fd3ac59c5944))
+* new version update ([2f4de97](https://github.com/VikashPR/VikashPR-Theme-Dark/commit/2f4de971fbbcb1f4f257faa8c426088d6907c7ec))
+* vsce 0.0.3 release ([1326fde](https://github.com/VikashPR/VikashPR-Theme-Dark/commit/1326fde8219231ba73fd9b5dabf0739095f0583b))
+
+
+### Bug Fixes
+
+* text color update ([92c66d8](https://github.com/VikashPR/VikashPR-Theme-Dark/commit/92c66d8121c088ea5521584b792ebab3f0816697))
+
 ### [0.0.4](https://github.com/VikashPR/VikashPR-Theme-Dark/compare/v0.0.3...v0.0.4) (2022-02-24)
 
 
