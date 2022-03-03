@@ -269,7 +269,7 @@
                 "entity.name.filename"
             ],
             "settings": {
-                "foreground": "#F1FA8C"
+                "foreground": "#db52b2"
             }
         },
         {
@@ -315,7 +315,7 @@
                 "markup.italic"
             ],
             "settings": {
-                "foreground": "#F1FA8C",
+                "foreground": "#db52b2",
                 "fontStyle": "italic"
             }
         },
@@ -369,7 +369,7 @@
                 "markup.quote"
             ],
             "settings": {
-                "foreground": "#F1FA8C",
+                "foreground": "#db52b2",
                 "fontStyle": "italic"
             }
         },
@@ -429,7 +429,7 @@
                 "markup.quote.markdown meta.paragraph.markdown punctuation.definition.string.end"
             ],
             "settings": {
-                "foreground": "#F1FA8C"
+                "foreground": "#db52b2"
             }
         },
         {
@@ -857,7 +857,7 @@
                 "constant.character.escape.backslash.regexp"
             ],
             "settings": {
-                "foreground": "#F1FA8C"
+                "foreground": "#db52b2"
             }
         },
         {
@@ -922,7 +922,7 @@
                 "string"
             ],
             "settings": {
-                "foreground": "#F1FA8C"
+                "foreground": "#db52b2"
             }
         },
         {
@@ -1001,7 +1001,7 @@
                 "meta.selectionset.graphql variable"
             ],
             "settings": {
-                "foreground": "#F1FA8C"
+                "foreground": "#db52b2"
             }
         },
         {
@@ -1069,7 +1069,7 @@
                 "meta.scope.prerequisites.makefile"
             ],
             "settings": {
-                "foreground": "#F1FA8C"
+                "foreground": "#db52b2"
             }
         },
         {
@@ -1078,7 +1078,7 @@
                 "meta.attribute-selector.scss"
             ],
             "settings": {
-                "foreground": "#F1FA8C"
+                "foreground": "#db52b2"
             }
         },
         {
@@ -1116,7 +1116,7 @@
                 "log.warning"
             ],
             "settings": {
-                "foreground": "#F1FA8C",
+                "foreground": "#db52b2",
                 "fontStyle": "bold"
             }
         }
