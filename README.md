@@ -1,6 +1,11 @@
 # VikashPR Dark Theme for VSCode
 
-VikashPR Dark theme is a custom fork of Abbys   
+VikashPR Dark theme is a custom fork of Aabyss & Cobalt theme for VSCode.
+
+Thanks to the developers.
+
+<a href="https://github.com/microsoft/vscode/blob/main/extensions/theme-abyss/themes/abyss-color-theme.json">![Aabyss](https://img.shields.io/badge/Aabyss-theme-informational)</a>
+<a href="https://github.com/wesbos/cobalt2-vscode">![Cobalt2](https://img.shields.io/badge/Cobalt2-theme-informational)</a>
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/VikashPR.vikashpr-theme-dark.svg)](https://marketplace.visualstudio.com/items?itemName=VikashPR.vikashpr-theme-dark)
 
