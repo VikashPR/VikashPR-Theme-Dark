@@ -1,6 +1,6 @@
 # VikashPR Dark Theme for VSCode
 
-VikashPR Dark theme is a custom fork of Abbys  
+VikashPR Dark theme is a custom fork of Abbys   
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/VikashPR.vikashpr-theme-dark.svg)](https://marketplace.visualstudio.com/items?itemName=VikashPR.vikashpr-theme-dark)
 
@@ -30,4 +30,3 @@ These are mostly notes for me.
 
 1. Run `npm run release`
 1. Next run `git push --follow-tags origin master && npm publish`
-1.
