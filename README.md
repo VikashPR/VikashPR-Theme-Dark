@@ -25,7 +25,7 @@ To work on the theme:
 1. Clone this repo and open in VS Code
 2. Open run `View → Run`
 3. Click `Launch Extension`. This will open up another VS Code Editor
-4. Make changes to `cobalt2.json`. You will see changes reflected in the other editor that opened in step 3.
+4. Make changes to `VikashPR Theme Dark-color-theme.json`. You will see changes reflected in the other editor that opened in step 3.
 
 If you are making a Pull Request, Please give me a screenshot of before/after!
 

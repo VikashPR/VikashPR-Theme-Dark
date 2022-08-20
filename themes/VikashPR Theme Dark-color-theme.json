@@ -2,9 +2,8 @@
     "name": "VikashPR Theme Dark",
     "type": "dark",
     "colors": {
-
-        "editor.background": "#021120",
-        "editor.foreground": "#6688cc",
+        "editor.background": "#030d22",
+        "editor.foreground": "#fdfeff",
 
         // Base
         // "foreground": "",
@@ -35,52 +34,72 @@
         "button.background": "#2B3C5D",
         // "button.foreground": "",
 
-        "list.activeSelectionBackground": "#08286b",
-        // "list.activeSelectionForeground": "",
-        "quickInputList.focusBackground": "#08286b",
-        "list.hoverBackground": "#061940",
-        "list.inactiveSelectionBackground": "#152037",
-        "list.dropBackground": "#041D52",
-        "list.highlightForeground": "#0063a5",
-
-        "scrollbar.shadow": "#515E91AA",
-        "scrollbarSlider.activeBackground": "#3B3F5188",
-        "scrollbarSlider.background": "#1F2230AA",
-        "scrollbarSlider.hoverBackground": "#3B3F5188",
+        "scrollbar.shadow": "#ff25ed57",
+        "scrollbarSlider.activeBackground": "#ff29944f",
+        "scrollbarSlider.background": "#fc309654",
+        "scrollbarSlider.hoverBackground": "#ee0077",
 
         // Editor
-        "editorWidget.background": "#262641",
-        "editorCursor.foreground": "#ddbb88",
-        "editorWhitespace.foreground": "#103050",
-        "editor.lineHighlightBackground": "#082050",
-        "editor.selectionBackground": "#770811",
-        "editorIndentGuide.background": "#002952",
-        "editorIndentGuide.activeBackground": "#204972",
-        "editorHoverWidget.background": "#000c38",
-        "editorHoverWidget.border": "#004c18",
-        "editorLineNumber.foreground": "#406385",
-        "editorLineNumber.activeForeground": "#80a2c2",
-        "editorMarkerNavigation.background": "#060621",
-        "editorMarkerNavigationError.background": "#AB395B",
-        "editorMarkerNavigationWarning.background": "#5B7E7A",
-        "editorLink.activeForeground": "#0063a5",
-        // "editor.findMatchBackground": "",
-        "editor.findMatchHighlightBackground": "#eeeeee44",
-        // "editor.findRangeHighlightBackground": "",
-        // "editor.hoverHighlightBackground": "",
-        // "editor.inactiveSelectionBackground": "",
-        // "editor.lineHighlightBorder": "",
-        // "editor.rangeHighlightBackground": "",
-        // "editor.selectionHighlightBackground": "",
-        // "editor.wordHighlightBackground": "",
-        // "editor.wordHighlightStrongBackground": "",
 
-        // Editor: Suggest Widget
-        // "editorSuggestWidget.background": "",
-        // "editorSuggestWidget.border": "",
-        // "editorSuggestWidget.foreground": "",
-        // "editorSuggestWidget.highlightForeground": "",
-        // "editorSuggestWidget.selectedBackground": "",
+        "editorLineNumber.foreground": "#ee0077",
+        "editorLineNumber.activeForeground": "#47a1fa",
+        "editorCursor.foreground": "#ee0077",
+        "editor.selectionBackground": "#310072",
+        "editor.selectionHighlightBackground": "#35008b",
+        "editor.findMatchBackground": "#003496",
+        "editor.findMatchHighlightBackground": "#001288da",
+        "editor.hoverHighlightBackground": "#004696",
+        "editor.wordHighlightBackground": "#47008ad5",
+        "editor.wordHighlightStrongBackground": "#440083d5",
+        "editor.lineHighlightBackground": "#1c1347",
+        "editorRuler.foreground": "#11215e",
+        "editorIndentGuide.background": "#030d22",
+        "editorIndentGuide.activeBackground": "#103483",
+        "editorError.foreground": "#ac077a",
+        "editorWarning.foreground": "#fad46d",
+        "editorInfo.foreground": "#af21e7",
+        // Editor Widget Colors
+        "editorWidget.background": "#04112c",
+        "editorWidget.border": "#030f27",
+        "editorHoverWidget.background": "#222858",
+        "editorHoverWidget.border": "#2d324e",
+        // Editor Groups & Tabs
+        "editorGroup.dropBackground": "#03153b",
+        "editorGroupHeader.noTabsBackground": "#03163f",
+        "editorGroupHeader.tabsBackground": "#030d22",
+        "tab.activeBackground": "#1d1641",
+        "tab.activeForeground": "#f9faff",
+        "tab.inactiveBackground": "#141138",
+        "tab.inactiveForeground": "#3e8efd",
+        "tab.border": "#171033",
+        // Side Bar
+        "sideBar.background": "#030d22",
+        "sideBarSectionHeader.background": "#04112e",
+        "sideBarSectionHeader.foreground": "#1f9aff",
+        // Lists & Trees
+        "list.activeSelectionBackground": "#073170",
+        "list.activeSelectionForeground": "#ffffff",
+        "list.dropBackground": "#063475",
+        "list.focusBackground": "#06306e",
+        "list.hoverBackground": "#0a2f66",
+        "list.inactiveSelectionBackground": "#161130",
+        "list.errorForeground": "#b60672",
+        "list.warningForeground": "#992293",
+        // Input Control
+        "input.background": "#0d0931",
+        "input.placeholderForeground": "#f3f3f3",
+        "input.border": "#150f53",
+        "inputOption.activeBorder": "#ffd400",
+        // Scrollbar Control
+        "scrollbar.shadow": "#ff25ed57",
+        "scrollbarSlider.activeBackground": "#ff29944f",
+        "scrollbarSlider.background": "#fc309654",
+        "scrollbarSlider.hoverBackground": "#ee0077",
+        // Activity Bar
+        "activityBar.background": "#030d22",
+        "activityBar.foreground": "#ff2592",
+        "activityBarBadge.background": "#d31b77",
+        "activityBarBadge.foreground": "#ffffff",
 
         // Editor: Peek View
         "peekViewResult.background": "#060621",
@@ -114,48 +133,27 @@
         // "titleBar.inactiveBackground": "",
         // "titleBar.inactiveForeground": "",
 
-        // Workbench: Editors
-        // "editorGroupHeader.noTabsBackground": "",
-        "editorGroup.border": "#2b2b4a",
-        "editorGroup.dropBackground": "#25375daa",
-        "editorGroupHeader.tabsBackground": "#1c1c2a",
 
-        // Workbench: Tabs
-        "tab.border": "#2b2b4a",
-        // "tab.activeBackground": "",
-        "tab.inactiveBackground": "#10192c",
-        // "tab.activeForeground": "",
-        // "tab.inactiveForeground": "",
         "tab.lastPinnedBorder": "#2b3c5d",
 
-        // Workbench: Activity Bar
-        "activityBar.background": "#051336",
-        // "activityBar.foreground": "",
-        // "activityBarBadge.background": "",
-        // "activityBarBadge.foreground": "",
-
-        // Workbench: Panel
-        // "panel.background": "",
-        "panel.border": "#2b2b4a",
-        // "panelTitle.activeBorder": "",
-        // "panelTitle.activeForeground": "",
-        // "panelTitle.inactiveForeground": "",
 
         // Workbench: Side Bar
-        "sideBar.background": "#060621",
-        // "sideBarTitle.foreground": "",
-        "sideBarSectionHeader.background": "#10192c",
 
         // Workbench: Status Bar
-        "statusBar.background": "#10192c",
-        "statusBar.noFolderBackground": "#10192c",
-        "statusBar.debuggingBackground": "#10192c",
-        // "statusBar.foreground": "",
-        "statusBarItem.remoteBackground": "#0063a5",
-        "statusBarItem.prominentBackground": "#0063a5",
-        "statusBarItem.prominentHoverBackground": "#0063a5dd",
-        // "statusBarItem.activeBackground": "",
-        // "statusBarItem.hoverBackground": "",
+        // Status Bar
+        "statusBar.background": "#0a0631",
+        "statusBar.foreground": "#4d8bee",
+        "statusBar.noFolderBackground": "#0a0631",
+        "statusBar.noFolderForeground": "#4d8bee",
+        "statusBar.debuggingBackground": "#0a0631",
+        "statusBar.debuggingForeground": "#4d8bee",
+        // Panel Colors
+        "panel.background": "#0e0952",
+        "panel.border": "#181657",
+        "panel.dropBackground": "#ff2592",
+        "panelTitle.activeBorder": "#ff2592",
+        "panelTitle.activeForeground": "#ff2592",
+        "panelTitle.inactiveForeground": "#d600dd",
 
         // Workbench: Debug
         "debugToolBar.background": "#051336",
@@ -170,6 +168,12 @@
         "extensionButton.prominentBackground": "#5f8b3b",
         "extensionButton.prominentHoverBackground": "#5f8b3bbb",
 
+        // Git Colors
+        "gitDecoration.modifiedResourceForeground": "#fdd81d",
+        "gitDecoration.deletedResourceForeground": "#d800ca",
+        "gitDecoration.untrackedResourceForeground": "#0097fc",
+        "gitDecoration.ignoredResourceForeground": "#1183b8",
+        "gitDecoration.conflictingResourceForeground": "#ec0076",
         // Workbench: Terminal
         "terminal.ansiBlack": "#111111",
         "terminal.ansiRed": "#ff9da4",
@@ -186,7 +190,7 @@
         "terminal.ansiBrightBlue": "#80baff",
         "terminal.ansiBrightMagenta": "#d778ff",
         "terminal.ansiBrightCyan": "#78ffff",
-        "terminal.ansiBrightWhite": "#ffffff"
+        "terminal.ansiBrightWhite": "#ffffff",
     },
     "tokenColors": [{
             "name": "Comment",
@@ -301,7 +305,7 @@
                 "punctuation.definition.string"
             ],
             "settings": {
-                "foreground": "#a5ff90"
+                "foreground": "#00d7e2"
             }
         },
         {
@@ -373,7 +377,7 @@
                 "source.stylus support"
             ],
             "settings": {
-                "foreground": "#a5ff90"
+                "foreground": "#00d7e2"
             }
         },
         {
@@ -421,7 +425,7 @@
             "name": "[HTML] - ID value",
             "scope": "meta.toc-list.id.html",
             "settings": {
-                "foreground": "#A5FF90"
+                "foreground": "#00d7e2"
             }
         },
         {
@@ -443,7 +447,7 @@
             "name": "[HTML] - Quotes. these are a slightly different colour because expand selection will then not include quotes",
             "scope": "punctuation.definition.string.begin, punctuation.definition.string.end",
             "settings": {
-                "foreground": "#92fc79"
+                "foreground": "#00d7e2"
             }
         },
         {
@@ -594,7 +598,7 @@
             "name": "[MARKDOWN] - Link Title",
             "scope": "string.other.link.title.markdown",
             "settings": {
-                "foreground": "#a5ff90"
+                "foreground": "#00d7e2"
             }
         },
         {
@@ -605,7 +609,7 @@
                 "string.other.link.description.title.markdown"
             ],
             "settings": {
-                "foreground": "#a5ff90"
+                "foreground": "#00d7e2"
             }
         },
         {
