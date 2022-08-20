@@ -305,7 +305,7 @@
             "punctuation.definition.string"
         ],
         "settings": {
-            "foreground": "#00d7e2"
+            "foreground": "#80ffbb"
         }
     },
     {
@@ -377,7 +377,7 @@
             "source.stylus support"
         ],
         "settings": {
-            "foreground": "#00d7e2"
+            "foreground": "#80ffbb"
         }
     },
     {
@@ -425,7 +425,7 @@
         "name": "[HTML] - ID value",
         "scope": "meta.toc-list.id.html",
         "settings": {
-            "foreground": "#00d7e2"
+            "foreground": "#80ffbb"
         }
     },
     {
@@ -447,7 +447,7 @@
         "name": "[HTML] - Quotes. these are a slightly different colour because expand selection will then not include quotes",
         "scope": "punctuation.definition.string.begin, punctuation.definition.string.end",
         "settings": {
-            "foreground": "#00d7e2"
+            "foreground": "#80ffbb"
         }
     },
     {
@@ -598,7 +598,7 @@
         "name": "[MARKDOWN] - Link Title",
         "scope": "string.other.link.title.markdown",
         "settings": {
-            "foreground": "#00d7e2"
+            "foreground": "#80ffbb"
         }
     },
     {
@@ -609,7 +609,7 @@
             "string.other.link.description.title.markdown"
         ],
         "settings": {
-            "foreground": "#00d7e2"
+            "foreground": "#80ffbb"
         }
     },
     {
