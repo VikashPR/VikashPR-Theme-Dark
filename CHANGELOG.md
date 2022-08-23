@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.1](https://github.com/VikashPR/VikashPR-Theme-Dark/compare/v2.1.0...v2.1.1) (2022-08-23)
+
+
+### Bug Fixes
+
+* theme contrast ([902fdac](https://github.com/VikashPR/VikashPR-Theme-Dark/commit/902fdac326f4e3c02877890168cf9ff22d5f6fc2))
+
 ## [2.1.0](https://github.com/VikashPR/VikashPR-Theme-Dark/compare/v1.2.0...v2.1.0) (2022-08-23)
 
 
