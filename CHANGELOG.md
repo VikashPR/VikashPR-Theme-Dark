@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/VikashPR/VikashPR-Theme-Dark/compare/v1.2.0...v2.1.0) (2022-08-23)
+
+
+### Features
+
+* theme update with winter coming stark ([c51e894](https://github.com/VikashPR/VikashPR-Theme-Dark/commit/c51e894b575a3e06cfe42c2b58950f77cea6e76e))
+
+
+### Bug Fixes
+
+* contrast border remove ([72f0c5d](https://github.com/VikashPR/VikashPR-Theme-Dark/commit/72f0c5d54a591287610a87e5fa00c1e324d6feb6))
+* text color ([45d42c4](https://github.com/VikashPR/VikashPR-Theme-Dark/commit/45d42c49c3016c3e094341d89e855e50bf268617))
+
 ## [1.2.0](https://github.com/VikashPR/VikashPR-Theme-Dark/compare/v1.1.1...v1.2.0) (2022-08-20)
 
 
