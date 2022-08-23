@@ -170,7 +170,7 @@
         ],
         "settings": {
             "fontStyle": "italic",
-            "foreground": "#0088ff"
+            "foreground": "#e433b5"
         }
     },
     {
@@ -184,7 +184,7 @@
         "name": "Entity",
         "scope": "entity",
         "settings": {
-            "foreground": "#ffc600"
+            "foreground": "#00bff9"
         }
     },
     {
@@ -199,7 +199,7 @@
         "name": "Storage Type Function",
         "scope": "storage.type.function",
         "settings": {
-            "foreground": "#ff9d00",
+            "foreground": "#c792ea",
             "fontStyle": "italic"
         }
     },
@@ -207,7 +207,7 @@
         "name": "Keyword",
         "scope": "keyword, storage.type.class, keyword.control.default.ts",
         "settings": {
-            "foreground": "#ff9d00"
+            "foreground": "#c792ea"
         }
     },
     {
@@ -260,7 +260,7 @@
         "name": "Storage",
         "scope": "storage",
         "settings": {
-            "foreground": "#ffc600",
+            "foreground": "#00bff9",
             "fontStyle": "italic"
         }
     },
@@ -268,7 +268,7 @@
         "name": "Storage Type Arrow Function",
         "scope": "storage.type.function.arrow",
         "settings": {
-            "foreground": "#ffc600"
+            "foreground": "#00bff9"
         }
     },
     {
@@ -302,7 +302,7 @@
         "name": "Support Function",
         "scope": "support.function",
         "settings": {
-            "foreground": "#ff9d00"
+            "foreground": "#c792ea"
         }
     },
     {
@@ -419,14 +419,14 @@
         "scope": "text.html.basic entity.other",
         "settings": {
             "fontStyle": "italic",
-            "foreground": "#ffc600"
+            "foreground": "#00bff9"
         }
     },
     {
         "name": "[HTML] - Script Tag",
         "scope": "meta.tag.metadata.script.html entity.name.tag.html",
         "settings": {
-            "foreground": "#ffc600",
+            "foreground": "#00bff9",
             "fontStyle": "italic",
         }
     },
@@ -449,7 +449,7 @@
         "name": "[INI] - Keyword",
         "scope": "source.ini keyword",
         "settings": {
-            "foreground": "#ffc600",
+            "foreground": "#00bff9",
             "fontStyle": "italic"
         }
     },
@@ -464,7 +464,7 @@
         "name": "[INI] - Punctuation Separator",
         "scope": "source.ini punctuation.separator",
         "settings": {
-            "foreground": "#ff9d00"
+            "foreground": "#c792ea"
         }
     },
     {
@@ -502,7 +502,7 @@
         "name": "[JSON] - Support",
         "scope": "source.json support",
         "settings": {
-            "foreground": "#ffc600"
+            "foreground": "#00bff9"
         }
     },
     {
@@ -530,7 +530,7 @@
             "markup.heading.setext.2.markdown"
         ],
         "settings": {
-            "foreground": "#ffc600",
+            "foreground": "#00bff9",
             "fontStyle": "bold"
         }
     },
@@ -545,7 +545,7 @@
         "name": "[MARKDOWN] - Quote Punctuation",
         "scope": "beginning.punctuation.definition.quote.markdown",
         "settings": {
-            "foreground": "#ffc600"
+            "foreground": "#00bff9"
         }
     },
     {
@@ -560,7 +560,7 @@
         "name": "[MARKDOWN] - Separator",
         "scope": "meta.separator.markdown",
         "settings": {
-            "foreground": "#ffc600"
+            "foreground": "#00bff9"
         }
     },
     {
@@ -583,7 +583,7 @@
         "name": "[MARKDOWN] - Lists",
         "scope": "beginning.punctuation.definition.list.markdown",
         "settings": {
-            "foreground": "#ffc600"
+            "foreground": "#00bff9"
         }
     },
     {
@@ -666,7 +666,7 @@
         "name": "[TYPESCRIPT] - Keyword",
         "scope": "source.ts keyword",
         "settings": {
-            "foreground": "#ffc600"
+            "foreground": "#00bff9"
         }
     },
     {
@@ -695,7 +695,7 @@
         "name": "[PHP] - Variables",
         "scope": "variable.other.php",
         "settings": {
-            "foreground": "#ffc600"
+            "foreground": "#00bff9"
         }
     },
     {
@@ -745,7 +745,7 @@
             "keyword.control.export"
         ],
         "settings": {
-            "foreground": "#ff9d00",
+            "foreground": "#c792ea",
             "fontStyle": "italic"
         }
     },
